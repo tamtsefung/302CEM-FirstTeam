@@ -1,6 +1,2 @@
 # 302CEM-FirstTeam
 2020-09-15 Lab
-User Requirement
-
-Consumer:
-As a consumer, I want to remotely control the air conditioner through my mobile phone so that I can turn on the system to provide a suitable temperature environment for my pet easily.
